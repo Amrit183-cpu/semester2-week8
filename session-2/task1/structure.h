@@ -5,7 +5,7 @@
 #define structure
 
 struct mystructure {
-    int rand_var = 0;
+    int rand_var;
 };
 
 #endif
