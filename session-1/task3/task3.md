@@ -25,7 +25,9 @@ Definitions for these functions are provided in the header file.
 
 Why do we need to:
 - pass the structure for `area()`
+need to pass the structure because it contains the height and width variables
 - pass a pointer to the structure for `shiftRectangle()` and `scaleRectangle()`  
+because we want to pass by reference which will replace the structs original variables values and not make a copy 
 
 ## Extension task
 
