@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "../include/structure.h"
-#include "../include/student.h"
+#include "../include/structure.h" //goes back one in directory & finds it 
+#include "../include/student.h" //goes back one in directory & finds it 
 
 /**
  * @brief Calculate the average mark for a student
