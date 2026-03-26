@@ -56,6 +56,8 @@ The output should be identical to the original single-file program.
 - **"implicit declaration"** errors usually mean you forgot to include the header file
 - If your program behavior differs from the original, check that all functions are implemented correctly
 
+MY COMPILED FILE DIDN'T WORK AS EXPECTED SOMETHING WRONG WITH THE AVERAGE MARK, HOW TO FIX?
+
 ## Reflection Questions
 1. How does separating the program into multiple files improve its organisation?
 2. What is the purpose of include guards, and what problems do they prevent?

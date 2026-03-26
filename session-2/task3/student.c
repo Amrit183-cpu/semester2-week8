@@ -17,6 +17,7 @@ float calculate_average(Student student) {
     // Sum up all the module marks
     for (int i = 0; i < NUM_MODULES; i++) {
         sum += student.marks[i];
+        printf("this a random change"); //change included
     }
     
     // Return the average
